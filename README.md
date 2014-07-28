@@ -1,10 +1,6 @@
 FreeBits
 =======
-************************
-* Cameron Tolooee      *
-* Project 1: Free Bits *
-* README:              *
-************************
+
 Compiling and Running
 To compile type "make". Note this will remove all previously existing output 
 files like *.out   *-_csu_cs556_*.txt. If you don't want these removed, compile 
